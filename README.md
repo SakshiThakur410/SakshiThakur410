@@ -1,17 +1,28 @@
-# 👋 Hi, I'm Sakshi Thakur!
+# About
+Hi there! I'm Sakshi, a frontend developer passionate about building user-friendly and efficient applications. I'm currently immersed in learning React.
 
-Welcome to my GitHub profile! 🌟
+## Skills
+- Frontend Development: I possess a strong foundation in frontend development, with knowledge of designing and implementing dynamic and interactive web interfaces.
+- Programming Languages: I am proficient in JavaScript and TypeScript, enabling me to create dynamic and responsive web applications.
+- Technologies & Frameworks: My expertise extends to various technologies and frameworks, including React, TailwindCSS, and Supabase. These tools empower me to build sophisticated and high-performing frontend applications.
 
-- 👀 I'm passionate about Web Development and excited to dive deeper into this fascinating world!
-  
-- 🌱 Currently, I'm sharpening my skills in **Web Development** and **Data Structures & Algorithms**. Always eager to learn and explore new concepts!
+## Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-- 💞️ I'm open to collaborating on projects that challenge me and help me grow as a developer. Let's create something amazing together!
+## UI/UX
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-- 📫 You can reach out to me via [email](mailto:sakshithakur410@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sakshi-thakur-321291254/).
 
-- 😄 Pronouns: She/Her
+## Frameworks
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- ⚡ Fun fact: Did you know that I can spend hours tweaking the layout and design of a webpage until it's just perfect? Attention to detail is my forte!
 
-Let's connect, collaborate, and code! Happy coding! 💻✨
+## Interests
+I am fascinated by the challenges and opportunities of frontend development. I thrive on crafting efficient and elegant solutions that enhance the overall user experience.
+
+## Collaboration
+I am actively seeking opportunities to collaborate on frontend projects. Whether it's building a new application from scratch or
